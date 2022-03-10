@@ -1,0 +1,5 @@
+Lanciare terminale windows dalla cartella coco-annotator:
+docker-compose up
+
+Collegarsi alla pagina web:
+http://localhost:5000/
